@@ -52,6 +52,9 @@ def sendEmail(to, message):
 sendEmail(to, message)
 
 
+'''
+#Suggestion: 
+
 #To check Whether this code works , We'll Go to a website Named -
 #--> www.10minutemail.com
 #there, we'll be copying the Temporary Email generated 
@@ -59,7 +62,7 @@ sendEmail(to, message)
 #the message send to that Temp email, will be showing in the inbox of that website
 #Keep note That Temp Email is Only For 10 Mins
 
-
+'''
 
 
 '''
@@ -93,7 +96,7 @@ Here's how to obtain the app-specific password:
 3.   Use the App-Specific Password in Your Code:
    - Replace "xxxx xxxx xxxx xxxx" in your code with the generated app password:
    
-         server.login('automationpurpose58@gmail.com', 'your_generated_app_password') (I.E --> xxxx xxxx xxxx xxxx)
+         server.login('automationpurpose58@gmail.com', 'your_generated_app_password') (i.e --> xxxx xxxx xxxx xxxx)
 
 --> Note: An app password is safer than your regular Google password because
 it provides access only to that specific app or device. 
